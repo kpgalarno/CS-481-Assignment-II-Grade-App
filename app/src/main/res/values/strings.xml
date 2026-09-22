@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+
+    <!--Group Info-->
+    <string name="group_num">Group 7</string>
+    <string-array name="group_member_name">
+        <item>Keanu Galarneau</item>
+        <item>Zavian Jon De Leon</item>
+        <item>Abdullah Alkaysey</item>
+    </string-array>
+    <string-array name="group_member_contact">
+        <item>galar019@csusm.edu</item>
+        <item>placeholder1</item>
+        <item>placedholder2</item>
+    </string-array>
+    <!--App resources-->
+
+    <string name="text_prompt">Enter Grade (0 – 100)</string>
+    <string name="button_calc">Show Grade</string>
+
+    <string name="err_inp_null">Please enter a score.</string>
+    <string name="err_inp_type">Please enter a valid number.</string>
+    <string name="err_inp_rang">Score must be between 0 and 100.</string>
+
+</resources>
