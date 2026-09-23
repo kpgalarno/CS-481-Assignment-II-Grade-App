@@ -8,11 +8,15 @@
         <item>Zavian Jon De Leon</item>
         <item>Abdullah Alkaysey</item>
     </string-array>
+
     <string-array name="group_member_contact">
         <item>galar019@csusm.edu</item>
         <item>placeholder1</item>
         <item>placedholder2</item>
     </string-array>
+
+    <string name="group_members">Authors: Keanu Galarneau, Abdullah Alkaysey, Zavian Jon De Leon</string>
+
     <!--App resources-->
 
     <string name="text_prompt">Enter Grade (0 – 100)</string>
