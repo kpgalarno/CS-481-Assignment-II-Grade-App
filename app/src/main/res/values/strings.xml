@@ -15,7 +15,7 @@
         <item>placedholder2</item>
     </string-array>
 
-    <string name="group_members">Authors: Keanu Galarneau, Abdullah Alkaysey, Zavian Jon De Leon</string>
+    <string name="group_members">Authors: Keanu Galarneau (galar019@csusm.edu), Abdullah Alkaysey (alkay003@csusm.edu), Zavian Jon De Leon (deleo135@csusm.edu)</string>
 
     <!--App resources-->
 
@@ -25,5 +25,7 @@
     <string name="err_inp_null">Please enter a score.</string>
     <string name="err_inp_type">Please enter a valid number.</string>
     <string name="err_inp_rang">Score must be between 0 and 100.</string>
+
+    <string name="output_msg">Your grade:</string>
 
 </resources>
